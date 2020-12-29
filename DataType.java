@@ -38,6 +38,6 @@ public static void main(String[] args) {
 	  String name="johnyboy2471997@gmail.com";
 	  System.out.println("Add Your Gmail"+name);
 	  // hello
-	 
+	 // Sample Test
 }
 }
